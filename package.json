@@ -5,14 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": " "
-    
   },
-
   "engines": {
     "node": ">=11.0.0",
     "npm": ">=6.4.0"
   },
-  
   "author": "",
   "license": "ISC",
   "dependencies": {
